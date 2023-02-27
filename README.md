@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/abramishvilisaba/interactive-rating-component](https://github.com/abramishvilisaba/interactive-rating-component)
-- Live Site URL: [sabramishvili-rating-app](https://sabramishvili-rating-app.netlify.app/)
+- Solution URL: [Github](https://github.com/abramishvilisaba/interactive-rating-component)
+- Live Site URL: [Netlfiy](https://sabramishvili-rating-app.netlify.app/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [github.com/abramishvilisaba]
+- Website - [saba abramishvili](github.com/abramishvilisaba)
 
